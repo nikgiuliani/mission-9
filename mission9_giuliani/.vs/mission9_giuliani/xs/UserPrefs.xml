@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E4D57B16-EF77-47A0-8E42-968E8E175FD8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mission9_giuliani/libman.json">
+    <Files>
+      <File FileName="mission9_giuliani/libman.json" Line="7" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mission9_giuliani" expanded="True">
+            <Node name="mission9_giuliani" expanded="True">
+              <Node name="wwwroot" expanded="True" />
+              <Node name="libman.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mission9__giuliani FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
